@@ -1,3 +1,0 @@
-# MyRepo
-
-print("Hello World!")
