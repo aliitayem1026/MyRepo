@@ -12,3 +12,4 @@ public class Score : MonoBehaviour {
 		scoreText.text = player.position.z.ToString("0");
 	}
 }
+ // Testing Exmaple Text For Git (Ignore)
